@@ -1,0 +1,24 @@
+{
+  "name": "atscntrb-keh-direct.c",
+  "version": "0.0.1",
+  "description": "ATS-C library for channels and concurrency.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelharake/atscntrb-keh-direct.c.git"
+  },
+  "keywords": [
+    "ATS", "C"
+  ],
+  "author": "Khalil El-Harake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelharake/atscntrb-keh-direct.c/issues"
+  },
+  "homepage": "https://github.com/kelharake/atscntrb-keh-direct.c#readme",
+  "dependencies": {
+    "atscntrb-keh-libdill": "0.0.2"
+  }
+}
